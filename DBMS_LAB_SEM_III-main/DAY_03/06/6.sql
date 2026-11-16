@@ -1,1 +1,0 @@
-SELECT DISTINCT job_id AS job_title FROM EMPLOYEE;

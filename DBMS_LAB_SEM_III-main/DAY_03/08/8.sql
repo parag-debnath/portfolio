@@ -1,1 +1,0 @@
-SELECT last_name, salary, (salary * 12) + 100 AS "Annual Compensation" FROM EMPLOYEE;

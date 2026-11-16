@@ -1,1 +1,0 @@
-SELECT emp_id ,last_name , job_id FROM EMPLOYEE;

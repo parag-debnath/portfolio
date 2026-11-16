@@ -1,1 +1,0 @@
-SELECT * FROM EMPLOYEE WHERE job_id LIKE '%CLERK%' OR job_id LIKE '%PROG%' OR job_id LIKE '%ASST%';
